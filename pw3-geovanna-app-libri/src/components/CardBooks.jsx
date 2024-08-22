@@ -1,4 +1,5 @@
 import style from './CardBooks.module.css'
+import Button from './Button'
 
 const CardBooks = ({titulo, autor, imagem}) =>{
     return(

@@ -1,6 +1,6 @@
 import './App.css'
-import './components/CardBooks.jsx'
-import CardBooks from './components/CardBooks.jsx'
+
+import CardBooks from './components/CardBooks'
 import cavernas from './assets/cavernas_aco.jpg'
 
 function App() {
