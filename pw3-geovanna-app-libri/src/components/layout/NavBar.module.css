@@ -1,0 +1,24 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    padding: 1em;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.item{
+    margin-right: 1em;
+    color: bisque;
+}
+
+.logo{
+    width: 120px;
+    
+}

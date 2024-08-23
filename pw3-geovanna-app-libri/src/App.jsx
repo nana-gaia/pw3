@@ -1,17 +1,15 @@
 import './App.css'
 
-import CardBooks from './components/CardBooks'
+// import CardBooks from './components/CardBooks'
+
+import NavBar from './components/layout/NavBar'
 import cavernas from './assets/cavernas_aco.jpg'
 
 function App() {
   return (
     <>
-      <CardBooks>
-        titulo={titulo}
-        autor={autor}
-        nome={nome}
-        <img src={cavernas}></img>
-      </CardBooks>
+      <NavBar/>
+      <h1></h1>
     </>
   )
 }
