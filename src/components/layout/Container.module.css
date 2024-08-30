@@ -1,0 +1,9 @@
+.conteiner{
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap; /*quebra linha*/
+
+}
